@@ -1,0 +1,5 @@
+Copyright (c) 2026 RMRNM. All rights reserved.
+
+Original design, application code, copy, generated beauty imagery and RMRNM marks are reserved for the author's portfolio. Public availability does not grant a license to redistribute these materials.
+
+Onest is a separate third-party font under SIL Open Font License 1.1. Its license notice is included in dist/assets/licenses/ and applies to the font files.
